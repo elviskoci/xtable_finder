@@ -1,4 +1,10 @@
-## Welcome to XTable-Finder! 
+# XTable-Finder 
+This implementation is part of the [DeExcelerator](https://wwwdb.inf.tu-dresden.de/research-projects/deexcelarator/) research project. The aim is to develop approaches for layout inference and table identification in spreadshet files.
 
-This is a project for table identification in spreadsheet files. 
-The code posted in this repository is related to the experimental evaluation reported in our ECIR 2019 paper submition.
+Using **Python** v3.6.6
+
+Other Dependencies:
+* networkx 1.11
+* deap 1.2.2
+* scipy 0.19.1
+* numpy 1.13.3
