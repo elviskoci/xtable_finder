@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.idea/
+datasets/gold_standard_heuristics.json
+datasets/gold_standard.json
+datasets/induced_error.json
