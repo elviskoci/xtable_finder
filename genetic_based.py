@@ -192,5 +192,5 @@ if __name__ == '__main__':
 
     # robust = RobustScaler(quantile_range=(25, 75))
     # min_max = MinMaxScaler()
-    main(gold_standard, induced_error, metrics_fun, bnds, n_buckets=10, seed=1, n_opt_runs=2,
-         n_searches=2, max_n_frgm=200, n_frgm_per_table=10, tf=None)
+    main(gold_standard, induced_error, metrics_fun, bnds, n_buckets=10, seed=1, n_opt_runs=10,
+         n_searches=10, max_n_frgm=200, n_frgm_per_table=10, tf=None)
