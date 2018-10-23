@@ -10,3 +10,6 @@ Other Dependencies:
 * scikit-learn 0.19.0
 * matplotlib 2.2.2
 * numpy 1.13.3
+
+**Important:**
+Make sure to unzip the datasets.zip (found in the ./datasets folder), before executing the scripts.
